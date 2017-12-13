@@ -1,0 +1,20 @@
+.Item {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  justify-content: center;
+  align-items: center;
+}
+
+.Item i {
+  font-size: 2.8rem;
+  font-weight: bold;
+}
+
+.Item a {
+  text-decoration: none;
+  color: white;
+}
+ 
+
+ /*# sourceMappingURL= Item.css.map */
